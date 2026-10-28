@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="fastbridge"
+version="1.0"
+displayName="FastBridge Mod"
+description="Быстрое строительство одной кнопкой для 1.16.5"
